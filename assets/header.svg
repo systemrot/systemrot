@@ -1,0 +1,50 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B0D12"/>
+    <stop offset="0.5" stop-color="#11131B"/>
+    <stop offset="1" stop-color="#0B0D12"/>
+  </linearGradient>
+  <linearGradient id="beam" x1="90" y1="260" x2="1110" y2="70" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#7AA2F7" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#7AA2F7"/>
+    <stop offset="1" stop-color="#BB9AF7" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="7" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+
+<rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+
+<g opacity="0.08" stroke="#7AA2F7">
+  <path d="M0 55H1200M0 110H1200M0 165H1200M0 220H1200M0 275H1200"/>
+  <path d="M75 0V330M175 0V330M275 0V330M375 0V330M475 0V330M575 0V330M675 0V330M775 0V330M875 0V330M975 0V330M1075 0V330"/>
+</g>
+
+<g opacity="0.45" filter="url(#glow)">
+  <circle cx="130" cy="80" r="2" fill="#7AA2F7"/>
+  <circle cx="1040" cy="95" r="2" fill="#BB9AF7"/>
+  <circle cx="930" cy="255" r="2" fill="#7AA2F7"/>
+  <circle cx="240" cy="245" r="2" fill="#BB9AF7"/>
+</g>
+
+<path d="M70 260C240 180 335 260 485 185C630 112 720 210 865 128C990 58 1050 108 1130 65"
+      stroke="url(#beam)" stroke-width="2"/>
+
+<path d="M70 276C255 194 355 278 520 205C675 137 755 228 905 150C1005 98 1080 130 1130 104"
+      stroke="#7AA2F7" stroke-opacity="0.14"/>
+
+<g filter="url(#glow)">
+  <circle cx="70" cy="260" r="4" fill="#7AA2F7"/>
+  <circle cx="485" cy="185" r="4" fill="#7AA2F7"/>
+  <circle cx="865" cy="128" r="4" fill="#BB9AF7"/>
+  <circle cx="1130" cy="65" r="4" fill="#BB9AF7"/>
+</g>
+
+<text x="600" y="132" text-anchor="middle" fill="#C0CAF5" font-family="monospace" font-size="68" font-weight="700">systemrot</text>
+<text x="600" y="176" text-anchor="middle" fill="#7AA2F7" font-family="monospace" font-size="17">FULL-STACK / BACKEND DEVELOPER</text>
+<text x="600" y="207" text-anchor="middle" fill="#565F89" font-family="monospace" font-size="12">TYPE SAFELY · SHIP OFTEN · BREAK NOTHING</text>
+<rect x="535" y="230" width="130" height="2" rx="1" fill="url(#beam)"/>
+</svg>

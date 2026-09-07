@@ -1,199 +1,179 @@
-::: {align="center"}
-# `systemrot`
+<div align="center">
 
-### Full-Stack / Backend Developer
+<img src="./assets/header.svg" alt="systemrot" width="100%">
 
-**JavaScript · TypeScript · Node.js · React · PostgreSQL · Docker ·
-Kubernetes**
+<br>
 
-`<br>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=7AA2F7&center=true&vCenter=true&width=720&lines=Full-Stack+%2F+Backend+Developer;TypeScript+%E2%80%A2+Node.js+%E2%80%A2+React;PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Kubernetes;Most+interesting+projects+are+under+NDA+%F0%9F%94%92" alt="Typing animation">
 
-[![GitHub](https://img.shields.io/badge/GitHub-systemrot-181717?style=for-the-badge&logo=github)](https://github.com/systemrot)
-:::
+<br><br>
 
-------------------------------------------------------------------------
+<a href="https://github.com/systemrot">
+<img src="https://img.shields.io/badge/GitHub-systemrot-16161e?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://github.com/systemrot?tab=followers">
+<img src="https://img.shields.io/github/followers/systemrot?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=16161e">
+</a>
+<img src="https://komarev.com/ghpvc/?username=systemrot&style=for-the-badge&color=bb9af7&label=VIEWS">
+
+</div>
+
+<br>
+
+---
 
 ## `> whoami`
 
-``` ts
-const systemrot = {
-  role: "Full-Stack / Backend Developer",
-  focus: [
-    "TypeScript & Node.js",
-    "React",
-    "Backend architecture",
-    "Databases",
-    "Docker & Kubernetes"
-  ],
-  status: "building things I can't publicly show",
-  projects: "🔒 NDA"
-};
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hey, I'm systemrot 👋
+
+I'm a **Full-Stack / Backend Developer** focused on building production systems.
+
+I work mostly with **TypeScript, Node.js and React**, backed by relational and NoSQL databases and deployed with containerized infrastructure.
+
+Most of my serious projects are **private and covered by NDA** — so this profile is intentionally more about the technologies and engineering mindset than a list of repositories.
+
+</td>
+<td width="45%" valign="top">
+
+```yaml
+developer:
+  name: systemrot
+  role: Full-Stack / Backend
+
+core:
+  - TypeScript
+  - Node.js
+  - React
+
+data:
+  - PostgreSQL
+  - MongoDB
+  - MySQL
+  - Redis
+
+infra:
+  - Docker
+  - Kubernetes
+  - Linux
+  - CI/CD
+
+projects: "🔒 NDA"
 ```
 
-Most of my interesting work is private and covered by NDA, so you won't
-find a huge collection of public repositories here.
+</td>
+</tr>
+</table>
 
-That's intentional.
+---
 
-I spend most of my time building **web applications, backend systems,
-APIs and infrastructure** --- with a focus on clean architecture,
-reliability and things that actually have to work in production.
+## `// tech stack`
 
-------------------------------------------------------------------------
-
-## `// stack`
-
-### Languages & Runtime
-
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=js,ts,nodejs" />`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,postgres,mongodb,mysql,redis,docker,kubernetes,linux,nginx,githubactions,git,github&perline=9" />
 </p>
-```
-### Frontend
 
-```{=html}
+---
+
+## `// what I build`
+
+<div align="center">
+
+| ⚙️ Backend | ⚛️ Frontend | 🗄️ Data | ☁️ Infrastructure |
+|:---:|:---:|:---:|:---:|
+| APIs & services | React apps | PostgreSQL | Docker |
+| Auth & business logic | TypeScript UI | MongoDB | Kubernetes |
+| WebSockets | Modern web | MySQL | Linux |
+| Architecture | Component systems | Redis | CI/CD |
+
+</div>
+
+---
+
+## `// current status`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  systemrot.dev                                           │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [████████████████████████████████████████]  ONLINE      │
+│                                                          │
+│  > writing TypeScript                                    │
+│  > building Node.js services                             │
+│  > designing APIs                                        │
+│  > working with databases                                 │
+│  > containerizing everything                              │
+│  > deploying to Kubernetes                                │
+│                                                          │
+│  status: ████████████████████ production                  │
+│  source: ████████████████████ NDA                         │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `// github activity`
+
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=react,html,css" />`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=systemrot&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemrot&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7aa2f7&text_color=c0caf5" height="170">
 </p>
-```
-### Backend & Databases
 
-```{=html}
 <p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=express,nestjs,postgres,mongodb,mysql,redis" />`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7">
 </p>
-```
-### DevOps & Infrastructure
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,githubactions" />`{=html}
-```{=html}
-</p>
-```
-### Tools
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
-
-## `// currently`
-
-``` text
-[████████████████████████████████████] 100%
-
-→ writing TypeScript
-→ building Node.js backends
-→ designing APIs
-→ working with PostgreSQL / MongoDB / MySQL
-→ containerizing services with Docker
-→ deploying with Kubernetes
-→ trying to make everything slightly less broken
-```
-
-------------------------------------------------------------------------
-
-## `// things I like building`
-
--   ⚙️ Backend services & REST APIs
--   🧩 Full-stack web applications
--   🗄️ Database-heavy systems
--   🔌 Real-time applications & WebSockets
--   🐳 Containerized services
--   ☸️ Kubernetes-based infrastructure
--   🏗️ Scalable application architecture
--   🔐 Production-oriented systems
-
-------------------------------------------------------------------------
-
-## `// github stats`
-
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-stats.vercel.app/api?username=systemrot&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&rank_icon=github" height="170" />`{=html}
-`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemrot&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000" height="170" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000" />`{=html}
-```{=html}
-</p>
-```
-
-------------------------------------------------------------------------
+---
 
 ## `// contribution graph`
 
-```{=html}
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=systemrot&theme=tokyo-night&hide_border=true&area=true" width="100%" />`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=systemrot&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%">
 </p>
-```
 
-------------------------------------------------------------------------
+<p align="center">
+  <img src="https://raw.githubusercontent.com/systemrot/systemrot/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+</p>
+
+---
 
 ## `// private.exe`
 
-``` text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Some projects are private.                 │
-│                                              │
-│   ████████████████████████████████████       │
-│   ████████████████████████████████████       │
-│   ████████████████████████████████████       │
-│                                              │
-│   reason: NDA                                │
-│   status: █ ONLINE                           │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-> A quiet GitHub doesn't necessarily mean a quiet developer.
-
-------------------------------------------------------------------------
-
-## `// contact`
-
-```{=html}
 <p align="center">
-```
-`<a href="https://github.com/systemrot">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-systemrot-181717?style=for-the-badge&logo=github" />`{=html}
-`</a>`{=html}
 
-```{=html}
+```text
+╔════════════════════════════════════════════════════════╗
+║                                                        ║
+║   ACCESSING PRIVATE PROJECTS...                        ║
+║                                                        ║
+║   ████████████████████████████████████████████████     ║
+║                                                        ║
+║   STATUS : ENCRYPTED                                   ║
+║   ACCESS : NDA                                         ║
+║   MODE   : BUILDING                                    ║
+║                                                        ║
+╚════════════════════════════════════════════════════════╝
+```
+
+**Some of the best things I've built can't be shown here.**
+
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-::: {align="center"}
+<div align="center">
+
 ### `systemrot@github:~$`
 
-**build · break · fix · repeat**
+`build` → `break` → `debug` → `ship` → `repeat`
 
-`<br>`{=html}
+<br><br>
 
-`<img src="https://komarev.com/ghpvc/?username=systemrot&style=flat-square&color=blueviolet" />`{=html}
-:::
+<img src="https://komarev.com/ghpvc/?username=systemrot&style=flat-square&color=7aa2f7&label=profile+views">
+
+</div>
