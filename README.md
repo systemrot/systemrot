@@ -8,17 +8,10 @@
 
 <br><br>
 
-<a href="https://github.com/systemrot">
-<img src="https://img.shields.io/badge/GitHub-systemrot-16161e?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<a href="https://github.com/systemrot?tab=followers">
-<img src="https://img.shields.io/github/followers/systemrot?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=16161e">
-</a>
-<img src="https://komarev.com/ghpvc/?username=systemrot&style=for-the-badge&color=bb9af7&label=VIEWS">
+<a href="https://github.com/systemrot"><img src="https://img.shields.io/badge/GitHub-systemrot-16161e?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/systemrot?tab=followers"><img src="https://img.shields.io/github/followers/systemrot?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=16161e"></a>
 
 </div>
-
-<br>
 
 ---
 
@@ -34,7 +27,7 @@ I'm a **Full-Stack / Backend Developer** focused on building production systems.
 
 I work mostly with **TypeScript, Node.js and React**, backed by relational and NoSQL databases and deployed with containerized infrastructure.
 
-Most of my serious projects are **private and covered by NDA** — so this profile is intentionally more about the technologies and engineering mindset than a list of repositories.
+Most of my serious projects are **private and covered by NDA** — so this profile is intentionally more about engineering than a list of repositories.
 
 </td>
 <td width="45%" valign="top">
@@ -73,7 +66,7 @@ projects: "🔒 NDA"
 ## `// tech stack`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,postgres,mongodb,mysql,redis,docker,kubernetes,linux,nginx,githubactions,git,github&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,postgres,mongodb,mysql,redis,docker,kubernetes,linux,nginx,githubactions,git,github&perline=9" alt="Tech stack">
 </p>
 
 ---
@@ -105,39 +98,36 @@ projects: "🔒 NDA"
 │  > writing TypeScript                                    │
 │  > building Node.js services                             │
 │  > designing APIs                                        │
-│  > working with databases                                 │
-│  > containerizing everything                              │
-│  > deploying to Kubernetes                                │
+│  > working with databases                                │
+│  > containerizing everything                             │
+│  > deploying to Kubernetes                               │
 │                                                          │
-│  status: ████████████████████ production                  │
-│  source: ████████████████████ NDA                         │
+│  status: ████████████████████ production                 │
+│  source: ████████████████████ NDA                        │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `// github activity`
+## `// github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=systemrot&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=systemrot&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=7aa2f7&text_color=c0caf5" height="170">
+  <img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7">
-</p>
+> The rest of the profile deliberately avoids third-party stats cards that can randomly rate-limit or disappear. Your actual GitHub contribution calendar remains visible directly on the profile.
 
 ---
 
-## `// contribution graph`
+## `// contribution snake`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=systemrot&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=bb9af7&area=true&hide_border=true" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/systemrot/systemrot/output/github-contribution-grid-snake.svg" alt="Contribution snake">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+    <img src="./assets/github-snake.svg" alt="GitHub contribution snake" width="100%">
+  </picture>
 </p>
 
 ---
@@ -171,9 +161,5 @@ projects: "🔒 NDA"
 ### `systemrot@github:~$`
 
 `build` → `break` → `debug` → `ship` → `repeat`
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=systemrot&style=flat-square&color=7aa2f7&label=profile+views">
 
 </div>
