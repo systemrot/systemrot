@@ -8,20 +8,14 @@
 
 <br><br>
 
-<a href="https://github.com/systemrot"><img src="https://img.shields.io/badge/GitHub-systemrot-16161e?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://github.com/systemrot?tab=followers"><img src="https://img.shields.io/github/followers/systemrot?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=16161e"></a>
+<a href="https://github.com/systemrot"><img src="https://img.shields.io/badge/GitHub-systemrot-16161e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/systemrot?tab=followers"><img src="https://img.shields.io/github/followers/systemrot?style=for-the-badge&label=FOLLOWERS&color=7aa2f7&labelColor=16161e" alt="Followers"></a>
 
 </div>
 
 ---
 
-## `> whoami`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### Hey, I'm systemrot 👋
+## About
 
 I'm a **Full-Stack / Backend Developer** focused on building production systems.
 
@@ -29,32 +23,34 @@ I work mostly with **TypeScript, Node.js and React**, backed by relational and N
 
 Most of my serious projects are **private and covered by NDA** — so this profile is intentionally more about engineering than a list of repositories.
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Core**
+
+TypeScript · Node.js · React
+
+**Data**
+
+PostgreSQL · MongoDB · MySQL · Redis
+
+**Infrastructure**
+
+Docker · Kubernetes · Linux · CI/CD
+
 </td>
 <td width="45%" valign="top">
 
 ```yaml
-developer:
-  name: systemrot
-  role: Full-Stack / Backend
+role: Full-Stack / Backend
+focus:
+  - APIs & services
+  - business logic
+  - data
+  - infrastructure
 
-core:
-  - TypeScript
-  - Node.js
-  - React
-
-data:
-  - PostgreSQL
-  - MongoDB
-  - MySQL
-  - Redis
-
-infra:
-  - Docker
-  - Kubernetes
-  - Linux
-  - CI/CD
-
-projects: "🔒 NDA"
+projects: private / NDA
 ```
 
 </td>
@@ -63,7 +59,7 @@ projects: "🔒 NDA"
 
 ---
 
-## `// tech stack`
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nestjs,postgres,mongodb,mysql,redis,docker,kubernetes,linux,nginx,githubactions,git,github&perline=9" alt="Tech stack">
@@ -71,11 +67,11 @@ projects: "🔒 NDA"
 
 ---
 
-## `// what I build`
+## What I build
 
 <div align="center">
 
-| ⚙️ Backend | ⚛️ Frontend | 🗄️ Data | ☁️ Infrastructure |
+| Backend | Frontend | Data | Infrastructure |
 |:---:|:---:|:---:|:---:|
 | APIs & services | React apps | PostgreSQL | Docker |
 | Auth & business logic | TypeScript UI | MongoDB | Kubernetes |
@@ -86,7 +82,7 @@ projects: "🔒 NDA"
 
 ---
 
-## `// current status`
+## Currently
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
@@ -110,17 +106,15 @@ projects: "🔒 NDA"
 
 ---
 
-## `// github`
+## GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak">
 </p>
 
-> The rest of the profile deliberately avoids third-party stats cards that can randomly rate-limit or disappear. Your actual GitHub contribution calendar remains visible directly on the profile.
-
 ---
 
-## `// contribution snake`
+## Contributions
 
 <p align="center">
   <picture>
@@ -132,7 +126,7 @@ projects: "🔒 NDA"
 
 ---
 
-## `// private.exe`
+## Private work
 
 <p align="center">
 
@@ -157,8 +151,6 @@ projects: "🔒 NDA"
 ---
 
 <div align="center">
-
-### `systemrot@github:~$`
 
 `build` → `break` → `debug` → `ship` → `repeat`
 
