@@ -82,31 +82,7 @@ projects: private / NDA
 
 ---
 
-## Currently
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│  systemrot.dev                                           │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│  [████████████████████████████████████████]  ONLINE      │
-│                                                          │
-│  > writing TypeScript                                    │
-│  > building Node.js services                             │
-│  > designing APIs                                        │
-│  > working with databases                                │
-│  > containerizing everything                             │
-│  > deploying to Kubernetes                               │
-│                                                          │
-│  status: ████████████████████ production                 │
-│  source: ████████████████████ NDA                        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
----
-
-## GitHub
+## GitHub activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=systemrot&theme=tokyonight&hide_border=true&background=00000000&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub streak">
@@ -114,7 +90,7 @@ projects: private / NDA
 
 ---
 
-## Contributions
+## Contribution graph
 
 <p align="center">
   <picture>
@@ -122,30 +98,6 @@ projects: private / NDA
     <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
     <img src="./assets/github-snake.svg" alt="GitHub contribution snake" width="100%">
   </picture>
-</p>
-
----
-
-## Private work
-
-<p align="center">
-
-```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║   ACCESSING PRIVATE PROJECTS...                        ║
-║                                                        ║
-║   ████████████████████████████████████████████████     ║
-║                                                        ║
-║   STATUS : ENCRYPTED                                   ║
-║   ACCESS : NDA                                         ║
-║   MODE   : BUILDING                                    ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
-
-**Some of the best things I've built can't be shown here.**
-
 </p>
 
 ---

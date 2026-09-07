@@ -4,4 +4,6 @@ Copy `README.md`, the `assets/` folder and `.github/workflows/snake.yml` into `s
 
 Then open **Actions → Generate contribution snake → Run workflow** once.
 
-The workflow writes the generated SVGs directly into `assets/` on the default branch, so the README uses stable local paths and does not depend on the `output` branch.
+The workflow writes the generated SVGs directly into `assets/` on the default branch, so the README uses stable local paths.
+
+The contribution snake is intentionally kept prominent — do not remove the `Contribution graph` section or its `<picture>` block.
